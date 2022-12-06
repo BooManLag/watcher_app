@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138997674450",
+    "project_id": "watcher-5ec2f",
+    "storage_bucket": "watcher-5ec2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138997674450:android:039f1f8881207a5398980b",
+        "android_client_info": {
+          "package_name": "com.example.watcher_movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138997674450-91vf3nhqqd7fr5enij7adefmc7l84jnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVur7sPo7YTx1L038NVnG-2DGIfPrerE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138997674450-91vf3nhqqd7fr5enij7adefmc7l84jnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
